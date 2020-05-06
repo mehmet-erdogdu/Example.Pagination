@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Example.Pagination.DbModels;
+using Example.Pagination.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
+using System;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using Example.Pagination.Models;
-using Example.Pagination.DbModels;
-using Microsoft.EntityFrameworkCore;
 
 namespace Example.Pagination.Controllers
 {

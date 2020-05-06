@@ -1,5 +1,3 @@
-using System;
-
 namespace Example.Pagination.Models
 {
     public class ErrorViewModel

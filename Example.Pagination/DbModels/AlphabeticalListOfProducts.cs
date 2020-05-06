@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Example.Pagination.DbModels
+﻿namespace Example.Pagination.DbModels
 {
     public partial class AlphabeticalListOfProducts
     {
